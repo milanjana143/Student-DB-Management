@@ -17,7 +17,7 @@ $total = mysqli_num_rows($sql);
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>TIMT Student DB</title>
+<title>TIMT Student Management</title>
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 <style>
