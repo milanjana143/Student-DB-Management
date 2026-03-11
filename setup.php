@@ -9,7 +9,7 @@ if (!$con) {
     die("Connection failed: " . mysqli_connect_error());
 }
 
-// create database
+// create database 
 mysqli_query($con, "CREATE DATABASE IF NOT EXISTS training");
 
 // select database
